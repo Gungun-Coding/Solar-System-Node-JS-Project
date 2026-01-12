@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # solar-system
+=======
+>>>>>>> 75c9ba832f6737a70c96037c69ce384c283b082d
 # Solar-System-Node-JS-Project
 This project is nodeJS base with mangodb as backend and it will show solar system and we can search planets base on number range between (1-8)
 
@@ -51,6 +54,7 @@ If the installation was successful, you should be able to run the following comm
 ## Access Application on Browser
     http://localhost:3000/
 
+<<<<<<< HEAD
 
 
 ## Getting started
@@ -142,3 +146,5 @@ For open source projects, say how it is licensed.
 
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+=======
+>>>>>>> 75c9ba832f6737a70c96037c69ce384c283b082d
